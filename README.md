@@ -25,6 +25,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/premshah06/premshah06/output/snake.svg" alt="Snake animation" />
 
 ###
