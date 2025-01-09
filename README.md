@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Hello Gif">
+</div>
+
+<div align="center">
   <h1>Welcome to Prem Shah's GitHub Profile! 👋</h1>
   <p>🚀 Passionate Developer | 🎨 Creative Designer | 📊 Data Enthusiast</p>
 </div>
@@ -38,12 +42,11 @@
 
 ---
 
-
 ### 🌱 Currently Learning
 
 - Advanced **Machine Learning** techniques.
 - Building scalable systems with **Cloud Platforms**.
-- Enhancing **Data Visualizing** skills using modern libraries.
+- Enhancing **Data Visualization** skills using modern libraries.
 
 ---
 
