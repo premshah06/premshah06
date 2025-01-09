@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Boy waving hello gif">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="200" alt="Boy saying hello gif">
 </div>
-
 
 <div align="center">
   <h1>Welcome to Prem Shah's GitHub Profile! 👋</h1>
