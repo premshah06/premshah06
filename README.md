@@ -43,7 +43,7 @@
 
 - Advanced **Machine Learning** techniques.
 - Building scalable systems with **Cloud Platforms**.
-- Enhancing **UI/UX** skills using modern libraries.
+- Enhancing **Data Visualizing** skills using modern libraries.
 
 ---
 
