@@ -1,68 +1,36 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&fontColor=E6EDF3&height=160&text=Prem%20Shah&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%2F%20AI%20Systems%20%2F%20San%20Jose%20CA&descSize=13&descAlignY=58&descColor=58A6FF&animation=fadeIn)](https://github.com/premshah06)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=E6EDF3&height=130&text=Prem%20Shah&fontSize=44&fontAlign=50&fontAlignY=48&desc=→%20Data%20Engineer%20·%20AI%20Systems%20·%20San%20Jose%20CA&descSize=13&descAlign=50&descAlignY=68&descColor=3FB950&animation=fadeIn&stroke=21262D&strokeWidth=1)](https://github.com/premshah06)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=2600&pause=1000&color=3FB950&center=true&vCenter=true&width=500&height=28&lines=~/premshah06+%24+cat+about.txt;~/premshah06+%24+python+run_pipeline.py;~/premshah06+%24+git+push+origin+main)](https://github.com/premshah06)
+[![typing](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=2400&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&height=28&lines=%24+cat+about.txt;%24+python+build_agent.py;%24+git+log+--oneline;%24+echo+%22ready%22)](https://github.com/premshah06)
 
 </div>
 
 <br/>
 
-I build pipelines that move data and agents that act on it. The interesting work is always before the model — the routing logic, the confidence thresholds, the self-correction loops. That's where things either hold or quietly fall apart.
+*I build pipelines that move data and agents that act on it. The interesting work is always before the model — the routing logic, the confidence thresholds, the self-correction loops. That's where things either hold or quietly fall apart.*
 
 <br/>
 
 ---
 
-<br/>
+**`AI / ML`** &nbsp; LangGraph · CrewAI · LangChain · LiteLLM · Claude API · PyTorch · HuggingFace · Stable Diffusion
 
-**`stack`**
+**`DATA`** &nbsp;&nbsp;&nbsp;&nbsp; Python · SQL · DuckDB · Snowflake · FastAPI · Flask · Docker
 
-![AI](https://img.shields.io/badge/LangGraph-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/CrewAI-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/LangChain-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/LiteLLM-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/Claude%20API-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/PyTorch-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/HuggingFace-238636?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/Stable%20Diffusion-238636?style=flat-square&logoColor=white)
-
-![Data](https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/SQL-1F6FEB?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/DuckDB-1F6FEB?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/Snowflake-1F6FEB?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/FastAPI-1F6FEB?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/Docker-1F6FEB?style=flat-square&logoColor=white)
-
-![Frontend](https://img.shields.io/badge/React-30363D?style=flat-square&logoColor=white)
-![Frontend](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logoColor=white)
-![Frontend](https://img.shields.io/badge/D3.js-30363D?style=flat-square&logoColor=white)
-![Frontend](https://img.shields.io/badge/Tailwind-30363D?style=flat-square&logoColor=white)
-
-<br/>
+**`FRONTEND`** &nbsp; React · TypeScript · D3.js · Tailwind · Gradio
 
 ---
-
-<br/>
-
-**`currently`**
 
 Finishing an MS in Data Analytics at SJSU, specializing in data engineering.
 Building in the multi-agent and LLM pipeline space.
 One paper published. A few projects shipped.
 
-<br/>
-
 ---
 
-<br/>
+Open to conversations about systems that make decisions under uncertainty.
 
-**`let's talk`**
-
-Open to conversations about systems that have to make decisions under uncertainty.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-shah-9a5076219/)
-[![Email](https://img.shields.io/badge/prem.shah%40sjsu.edu-30363D?style=flat-square&logoColor=white)](mailto:prem.shah@sjsu.edu)
+[→ LinkedIn](https://www.linkedin.com/in/prem-shah-9a5076219/)
 
 <br/>
 
